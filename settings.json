@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CREEPERMC-T3lj.aternos.me",
-    "port": 54082,
+    "ip": "CREPPERMC.aternos.me",
+    "port": 30236,
     "version": "1.21.1"
   },
   "position": {
